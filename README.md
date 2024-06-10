@@ -1,1 +1,1 @@
-# QISKIT-GLOBAL-SUMMER-SCHOOL-2024  
+# Qiskit-Global-Summer-School-2024 
