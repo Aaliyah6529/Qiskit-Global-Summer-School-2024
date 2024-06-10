@@ -1,2 +1,1 @@
-# Test
-hey lies my body 
+# QISKIT-GLOBAL-SUMMER-SCHOOL-2024  
